@@ -13,7 +13,7 @@ Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvim
 
 ### Descrição
 
-O projeto consiste na criação de um formulário de contato básico preenchivel, contendo: um espaço para email, 
+O projeto consiste na criação de um formulário de contato básico preenchivel, contendo: espaço para nome, telefone, e-mail, assunto e a mesagem de avaliação.
 
 ### Resultado do Projeto
 
